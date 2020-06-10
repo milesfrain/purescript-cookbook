@@ -8,4 +8,7 @@
 /.purs*
 /.psa*
 /.spago
-/.cache
+/.cache/
+/dev-dist/
+/prod-dist/
+/prod/
